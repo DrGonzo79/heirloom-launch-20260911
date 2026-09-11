@@ -1,0 +1,42 @@
+[
+  {
+    "id": "harvest-kettle",
+    "name": "Harvest Kettle Foods",
+    "location": "Columbus, OH",
+    "categories": ["Sauce", "Spread"],
+    "minimumRun": 1200,
+    "leadWeeks": 8,
+    "certifications": ["FDA registered", "SQF"],
+    "strength": "Hot-fill sauces and family-scale first runs"
+  },
+  {
+    "id": "mesa-batchworks",
+    "name": "Mesa Batchworks",
+    "location": "Austin, TX",
+    "categories": ["Sauce", "Snack"],
+    "minimumRun": 2500,
+    "leadWeeks": 6,
+    "certifications": ["FDA registered", "Non-GMO capable"],
+    "strength": "Retail-ready packaging and regional grocery launches"
+  },
+  {
+    "id": "northstar-pantry",
+    "name": "Northstar Pantry Co.",
+    "location": "Madison, WI",
+    "categories": ["Spread", "Bakery"],
+    "minimumRun": 800,
+    "leadWeeks": 10,
+    "certifications": ["FDA registered", "Organic capable"],
+    "strength": "Small-batch preserves, fillings, and shelf-life support"
+  },
+  {
+    "id": "blue-ridge-provisions",
+    "name": "Blue Ridge Provisions",
+    "location": "Asheville, NC",
+    "categories": ["Snack", "Bakery"],
+    "minimumRun": 1800,
+    "leadWeeks": 7,
+    "certifications": ["FDA registered", "Gluten-free capable"],
+    "strength": "Dry snacks and heritage bakery products"
+  }
+]
